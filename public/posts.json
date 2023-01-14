@@ -1,3 +1,19 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "React js",
+      "description": "A React js tutorial",
+      "id": 1
+    },
+    {
+      "title": "React Native js",
+      "description": "A React Native js tutorial",
+      "id": 2
+    },
+    {
+      "title": "React CRUD App",
+      "description": "React CRUD app with json-server",
+      "id": 3
+    }
+  ]
 }

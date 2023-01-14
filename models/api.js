@@ -1,9 +1,7 @@
 import axios from "axios";
 
-const server_port = process.env.JSON_SERVER || 3000;
-
 const postsInst = axios.create({
-  baseURL: `http://localhost:${server_port}`,
+  baseURL: 'http://localhost:3500',
   headers: {
     "Content-Type": "application/json"
   }
