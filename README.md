@@ -6,7 +6,6 @@ Run `npm start` to start up the server in production mode, and
 `npm run dev` to start up the server in development mode.
 
 [Modules] (#modules)
-
 ## Modules
 
 The necessary modules installed are:
